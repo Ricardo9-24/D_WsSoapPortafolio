@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Portafolio\DataBase]
+"dbHost"="127.0.0.1"
+"dbPort"="3306"
+"dbUser"="root"
+"dbPass"=""
+"dbBD"="portafolio"
